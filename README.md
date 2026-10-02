@@ -23,6 +23,11 @@ README.md
 ```
 
 ## How to run
+
+**Option 1: Play online**
+Open the live link at the top of this page. Nothing to install.
+
+**Option 2: Run locally**
 1. Download or clone this repository.
 2. Open `index.html` in any web browser (double-click it).
 
