@@ -1,5 +1,7 @@
 # VOSC Activity-1: Tic-Tac-Toe
 
+**Play online:** https://pallavi-eslavath.github.io/VOSC-Activity-1/
+
 A simple two-player Tic-Tac-Toe game built with only HTML, CSS and JavaScript.
 This is my submission for the VOSC Activity 1 prerequisite task.
 
@@ -14,10 +16,10 @@ This is my submission for the VOSC Activity 1 prerequisite task.
 
 ## Project structure
 ```
-index.html   - page structure
-style.css    - styling
-script.js    - game logic
-README.md    - project description
+index.html
+style.css
+script.js
+README.md
 ```
 
 ## How to run
