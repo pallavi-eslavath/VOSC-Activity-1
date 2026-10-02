@@ -25,7 +25,7 @@ README.md
 ## How to run
 
 **Option 1: Play online**
-Open the live link at the top of this page. Nothing to install.
+- Open the live link at the top of this page. Nothing to install.
 
 **Option 2: Run locally**
 1. Download or clone this repository.
